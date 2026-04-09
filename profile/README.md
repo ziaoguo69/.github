@@ -1,5 +1,7 @@
 # ✨ GuyZeus
-##软件专业学生 | C / Java / HTML / CSS 开发者 | 持续学习中
-<hr>
-👋 关于我
-你好！我是GuyZeus，一名软件专业在读学生，专注于后端基础开发与前端页面制作，熟练使用 C、Java、HTML、CSS，热衷于通过编程解决问题，不断提升自己的技术能力与项目经验。
+## 编程语言：C、Java前端技术：HTML、CSS开发工具：VS Code、IntelliJ IDEA、Dev-C++版本控制：Git、GitHub
+<h1>你好</h1>
+
+
+
+
